@@ -1,3 +1,10 @@
+# Silp setup
+
+* https://github.com/hipchat/hubot-hipchat
+* https://dashboard-next.heroku.com/apps/harry-spotter/resources
+* https://silp.hipchat.com/account/xmpp
+
+
 # Hubot
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
