@@ -3,7 +3,7 @@
 
 module.exports = (robot) ->
 
-  robot.respond /force-pushed/i, (msg) ->   
+  robot.hear /force-pushed/i, (msg) ->   
     gifs = [
       'http://i.imgur.com/R7tEQPA.gif', # plow
       'http://imgur.com/2A3ihEW', # guitar girls
