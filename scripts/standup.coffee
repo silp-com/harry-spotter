@@ -11,7 +11,7 @@ class Standup
   constructor: (robot) ->
     @robot = robot  
     
-    @cronjob = new cronJob('0 27 9 ? * MON-FRI *', @send_message)
+    @cronjob = new cronJob('27 9 * * *', @send_message)
     @cronjob.start()           
          
   send_message: => 
