@@ -11,11 +11,11 @@ class Standup
   constructor: (robot) ->
     @robot = robot  
     
-    @cronjob = new cronJob('27 9 * * 1-5', @send_message)
+    @cronjob = new cronJob('0 27 9 ? * MON-FRI *', @send_message)
     @cronjob.start()           
          
   send_message: => 
-    @robot.send(room: 'Dev', "Rise and shine, standup time! Reminder: today is #{@current_day()}.")
+    @robot.send(room: 'Silp', "Rise and shine, standup time! Reminder: today is #{@current_day()}.")
   
   current_day: ->                         
     now = new Date();
