@@ -13,8 +13,9 @@ module.exports = (robot) ->
       'http://i.imgur.com/WwBxYiK.gif', # hamster
       'http://weknowmemes.com/wp-content/uploads/2012/07/holly-ellenbogen-stop-sign.gif', # stop sign
       'http://media.giphy.com/media/a6LWeFX6SuW4M/giphy.gif', # pushups
-      'http://media.giphy.com/media/eB3bdGILNdlg4/giphy.gif', # bird turtle      
-       
+      'http://media.giphy.com/media/eB3bdGILNdlg4/giphy.gif', # bird turtle
+      'http://tclhost.com/GBwrwr2.gif', # bus
+
       # Obi-Wans
       "http://i2.kym-cdn.com/photos/images/newsfeed/000/806/779/abe.gif",
       "http://i1.kym-cdn.com/photos/images/newsfeed/000/806/279/09f.gif",
