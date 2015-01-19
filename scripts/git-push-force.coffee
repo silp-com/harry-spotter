@@ -15,6 +15,11 @@ module.exports = (robot) ->
       'http://media.giphy.com/media/a6LWeFX6SuW4M/giphy.gif', # pushups
       'http://media.giphy.com/media/eB3bdGILNdlg4/giphy.gif', # bird turtle
       'http://tclhost.com/GBwrwr2.gif', # bus
+      'http://s3-ec.buzzfed.com/static/2014-06/2/13/enhanced/webdr06/anigif_enhanced-31332-1401729396-1.gif', #face punch
+      'http://s3-ec.buzzfed.com/static/2014-06/2/13/enhanced/webdr07/anigif_enhanced-buzz-20533-1401729943-22.gif', #through the car
+      'http://s3-ec.buzzfed.com/static/2014-06/2/13/enhanced/webdr04/anigif_enhanced-buzz-21143-1401730045-4.gif', #moustache
+      'http://s3-ec.buzzfed.com/static/2014-11/11/8/enhanced/webdr02/anigif_enhanced-buzz-10314-1415713122-21.gif', #flying jeep
+      'http://s3-ec.buzzfed.com/static/2014-11/12/2/enhanced/webdr01/anigif_enhanced-buzz-8324-1415776951-20.gif', #train vs bike
 
       # Obi-Wans
       "http://i2.kym-cdn.com/photos/images/newsfeed/000/806/779/abe.gif",
