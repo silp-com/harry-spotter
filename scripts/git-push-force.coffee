@@ -21,6 +21,7 @@ module.exports = (robot) ->
       'http://s3-ec.buzzfed.com/static/2014-11/11/8/enhanced/webdr02/anigif_enhanced-buzz-10314-1415713122-21.gif', #flying jeep
       'http://s3-ec.buzzfed.com/static/2014-11/12/2/enhanced/webdr01/anigif_enhanced-buzz-8324-1415776951-20.gif', #train vs bike
       'http://i.imgur.com/vO8ntJK.gif', #fire extinguisher
+      'http://media.giphy.com/media/y6Nc4RBVwRRC/giphy.gif', #wrestling
 
       # Obi-Wans
       "http://i2.kym-cdn.com/photos/images/newsfeed/000/806/779/abe.gif",
